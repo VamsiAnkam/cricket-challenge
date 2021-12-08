@@ -1,0 +1,88 @@
+{
+    "bolwingCardsList": [ "Bouncer", "Inswinger", "Outswinger", "Leg Cutter", "Off Cutter", "Slower Ball", "Yorker", "Pace", "Off Break", "Doosra"],
+    "battingCardsList": [ "Straight", "Sweep", "Flick", "Cover Drive", "Leg Lance", "Pull", "Long On", "Scoop", "Square Cut", "Upper Cut"],
+    "commentoryObj": {
+        "-1": [
+            "Batsman tried a fancy stroke and threw his wicket",
+            "The break cost him his wicket as batsman tends to lose some concentration"
+        ],
+        "0": [
+            "Edged",
+            "Good defence"
+        ],
+        "1": [
+            "Edged and taken"
+        ],
+        "2": [
+            "That’s placed in the gaps/vacant region"
+        ],
+        "3": [
+            "A very good gap delivery",
+            "Excellent running between wickets"
+        ],
+        "4": [
+            "Ball goes like a tracer bullet",
+            "Straight down the ground",
+            "That's a Proper Cricket Shot."
+        ],
+        "5": [
+            "That's an unfortunate misfield"
+        ],
+        "6": [
+            "That's a screamer",
+            "That's massive and out of the ground"
+        ]
+    },
+    "customMappingList": [
+        {
+            "worstCase": [1, 2],
+            "dotCase": [0, 3, 4, 6, 7, 8],
+            "otherCase": [5, 9]
+        },
+        {
+            "worstCase": [5, 9],
+            "dotCase": [1, 4, 6, 7, 8],
+            "otherCase": [0, 2, 3]
+        },
+        {
+            "worstCase": [1, 5, 9],
+            "dotCase": [0, 3, 7, 8],
+            "otherCase": [2, 4, 6]
+        },
+        {
+            "worstCase": [1, 5, 9],
+            "dotCase": [0, 3, 7, 8],
+            "otherCase": [2, 4, 6]
+        },
+        {
+            "worstCase": [5, 9],
+            "dotCase": [1, 4, 6, 7, 8],
+            "otherCase": [0, 2, 3]
+        },
+        {
+            "worstCase": [1, 5, 9],
+            "dotCase": [0, 3, 7, 8],
+            "otherCase": [2, 4, 6]
+        },
+        {
+            "worstCase": [5, 9],
+            "dotCase": [3, 4, 6, 7, 8],
+            "otherCase": [0, 1, 2]
+        },
+        {
+            "worstCase": [1, 8],
+            "dotCase": [5, 6, 7, 9],
+            "otherCase": [0, 2, 3, 4]
+        },
+        {
+            "worstCase": [5, 9],
+            "dotCase": [1, 4, 6, 7, 8],
+            "otherCase": [0, 2, 3]
+        },
+        {
+            "worstCase": [1, 5, 9],
+            "dotCase": [0, 3, 7, 8],
+            "otherCase": [2, 4, 6]
+        }
+    ]
+}

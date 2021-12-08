@@ -1,0 +1,30 @@
+{
+    "targetScore": 10,
+    "maxWickets": 2,
+    "inputs": [
+        {
+            "battingCard": "Pull",
+            "shotTiming": "Perfect"
+        },
+        {
+            "battingCard": "Cover Drive",
+            "shotTiming": "Perfect"
+        },
+        {
+            "battingCard": "Square Cut",
+            "shotTiming": "Good"
+        },
+        {
+            "battingCard": "Pull",
+            "shotTiming": "Perfect"
+        },
+        {
+            "battingCard": "Cover Drive",
+            "shotTiming": "Perfect"
+        },
+        {
+            "battingCard": "Square Cut",
+            "shotTiming": "Good"
+        }
+    ]
+}
